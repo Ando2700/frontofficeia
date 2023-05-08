@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section("title", "Home")
+@section('description', 'Intelligence artificielle, processus d\'imitation de l\'intelligence humaine.' )
 @section('content')
 <div class="container">
     <div class="row justify-content-center">

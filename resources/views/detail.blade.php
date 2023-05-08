@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section("title", "Detail de post")
+@section('description', 'L\'intelligence a plusieurs categories, et ce dans tout les domaines digital' )
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
